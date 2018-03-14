@@ -1,27 +1,14 @@
 # lifetime
 
-> A Vue.js project
+此项目利用Vue-cile、vue-router和element-ui,简单的模拟了一个婚纱店官网
 
-## Build Setup
+但是不涉及Vuex,对于vue的有一定了解的初学者来说很容易理解
 
-``` bash
-# install dependencies
-npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
+使用方法node6.0以上
 
-# build for production with minification
-npm run build
+git clone https://github.com/xiaoshab/lifetime
 
-# build for production and view the bundle analyzer report
-npm run build --report
+npm i
 
-# run unit tests
-npm run unit
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+npm run dev 
